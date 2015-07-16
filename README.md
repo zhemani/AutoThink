@@ -1,0 +1,4 @@
+# AutoThink
+AutoThink is an open-source project to offer developers a standardized platform to facilitate car-control for all brands of cars with one API. 
+
+AutoThink was originally created at Hack Western as an attempt to use a Muse EEG Headband to control a Model S automobile. After the hackathon, the idea evolved to what it is today. This API is aimed to offer developers a headache-free, open-source solution to implementing car-control in their applications <i>regardless</i> of API. Currently, we are working on finalizing support for the Tesla Model S API. Next we will add a module to offer support for Chevrolet automobiles.
